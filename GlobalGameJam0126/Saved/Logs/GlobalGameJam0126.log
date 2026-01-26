@@ -7727,3 +7727,27 @@ Script call stack:
 [2026.01.26-22.25.11:240][530]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/Player/BP_Player_Auto4
 [2026.01.26-22.25.11:240][530]LogSavePackage: Moving 'D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Saved/BP_Player_Auto42D8AC29949CDAE221BB26398F73F0F83.tmp' to 'D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Saved/Autosaves/Game/_Blueprints/Player/BP_Player_Auto4.uasset'
 [2026.01.26-22.25.11:241][530]LogFileHelpers: Auto-saving content packages took 0.110
+[2026.01.26-22.25.38:780][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.26-22.25.40:235][741]LogSlate: Window 'Save Content' being destroyed
+[2026.01.26-22.25.40:380][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.25.40:419][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/Props/Door/BP_Door] ([2] browsable assets)...
+[2026.01.26-22.25.40:419][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Props/Door/BP_Door]
+[2026.01.26-22.25.40:419][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Props/Door/BP_Door" FILE="D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Content/_Blueprints/Props/Door/BP_Door.uasset" SILENT=true
+[2026.01.26-22.25.40:427][741]LogSavePackage: Moving output files for package: /Game/_Blueprints/Props/Door/BP_Door
+[2026.01.26-22.25.40:427][741]LogSavePackage: Moving 'D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Saved/BP_DoorF942EBAE4DD2FF7EF1415B9FE0089BD8.tmp' to 'D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Content/_Blueprints/Props/Door/BP_Door.uasset'
+[2026.01.26-22.25.40:428][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/Player/BP_Player] ([2] browsable assets)...
+[2026.01.26-22.25.40:428][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Player/BP_Player]
+[2026.01.26-22.25.40:428][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Player/BP_Player" FILE="D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Content/_Blueprints/Player/BP_Player.uasset" SILENT=true
+[2026.01.26-22.25.40:445][741]LogSavePackage: Moving output files for package: /Game/_Blueprints/Player/BP_Player
+[2026.01.26-22.25.40:445][741]LogSavePackage: Moving 'D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Saved/BP_Player54BCB92D446A086AA46DEBBB2B0971C6.tmp' to 'D:/UnrealProjects/GameJam/GlobalGameJam01-26/GlobalGameJam0126/Content/_Blueprints/Player/BP_Player.uasset'
+[2026.01.26-22.25.40:454][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.062 ms (total: 999.336 ms)
+[2026.01.26-22.25.40:498][741]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.26-22.25.40:498][741]LogContentValidation: Enabled validators:
+[2026.01.26-22.25.40:498][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.25.40:498][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.25.40:498][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.25.40:498][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.25.40:498][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.25.40:498][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.25.40:499][741]AssetCheck: /Game/_Blueprints/Props/Door/BP_Door Validating asset
+[2026.01.26-22.25.40:499][741]AssetCheck: /Game/_Blueprints/Player/BP_Player Validating asset
