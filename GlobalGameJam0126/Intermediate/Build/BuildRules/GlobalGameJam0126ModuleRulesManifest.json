@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\GitRepos\\GlobalGameJam01-25Repo\\GlobalGameJam01-26\\GlobalGameJam0126\\Source\\GlobalGameJam0126\\GlobalGameJam0126.Build.cs",
-		"C:\\GitRepos\\GlobalGameJam01-25Repo\\GlobalGameJam01-26\\GlobalGameJam0126\\Source\\GlobalGameJam0126.Target.cs",
-		"C:\\GitRepos\\GlobalGameJam01-25Repo\\GlobalGameJam01-26\\GlobalGameJam0126\\Source\\GlobalGameJam0126Editor.Target.cs"
+		"D:\\GlobalGameJam01-26\\GlobalGameJam0126\\Source\\GlobalGameJam0126\\GlobalGameJam0126.Build.cs",
+		"D:\\GlobalGameJam01-26\\GlobalGameJam0126\\Source\\GlobalGameJam0126.Target.cs",
+		"D:\\GlobalGameJam01-26\\GlobalGameJam0126\\Source\\GlobalGameJam0126Editor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\gitrepos\\globalgamejam01-25repo\\globalgamejam01-26\\globalgamejam0126\\source\\globalgamejam0126\\globalgamejam0126.cpp",
+        "Source": "d:\\globalgamejam01-26\\globalgamejam0126\\source\\globalgamejam0126\\globalgamejam0126.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\gitrepos\\globalgamejam01-25repo\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\globalgamejam0126editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\globalgamejam0126editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\gitrepos\\globalgamejam01-25repo\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam0126\\definitions.globalgamejam0126.h",
-            "c:\\gitrepos\\globalgamejam01-25repo\\globalgamejam01-26\\globalgamejam0126\\source\\globalgamejam0126\\globalgamejam0126.h"
+            "d:\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam0126\\definitions.globalgamejam0126.h",
+            "d:\\globalgamejam01-26\\globalgamejam0126\\source\\globalgamejam0126\\globalgamejam0126.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
