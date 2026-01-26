@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam0126\\permoduleinline.gen.cpp",
+        "Source": "d:\\unrealprojects\\gamejam\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam0126\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\globalgamejam0126editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\unrealprojects\\gamejam\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\globalgamejam0126editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam0126\\definitions.globalgamejam0126.h",
+            "d:\\unrealprojects\\gamejam\\globalgamejam01-26\\globalgamejam0126\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam0126\\definitions.globalgamejam0126.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],

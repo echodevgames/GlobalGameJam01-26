@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GlobalGameJam0126ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5d4fa47f81f3d629392a5a9f7f8fd798cd3460")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f53e3b7aae852fad68e6f387dfd153448f3d427")]
 [assembly: System.Reflection.AssemblyProductAttribute("GlobalGameJam0126ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GlobalGameJam0126ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
