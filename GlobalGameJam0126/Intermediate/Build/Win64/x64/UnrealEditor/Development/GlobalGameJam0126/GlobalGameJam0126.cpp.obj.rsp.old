@@ -1,12 +1,12 @@
-"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Source\GlobalGameJam0126\GlobalGameJam0126.cpp"
-/FI"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\Definitions.GlobalGameJam0126.h"
-/Yu"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.obj"
-/experimental:log "C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.sarif"
-/sourceDependencies "C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.dep.json"
-@"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.Shared.rsp"
+"D:\GlobalGameJam01-26\GlobalGameJam0126\Source\GlobalGameJam0126\GlobalGameJam0126.cpp"
+/FI"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\Definitions.GlobalGameJam0126.h"
+/Yu"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.obj"
+/experimental:log "D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.sarif"
+/sourceDependencies "D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.dep.json"
+@"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

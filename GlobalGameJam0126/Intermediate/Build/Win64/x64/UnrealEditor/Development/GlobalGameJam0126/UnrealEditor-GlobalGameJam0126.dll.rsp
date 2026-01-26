@@ -21,7 +21,7 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\lib\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -36,10 +36,10 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.obj"
-"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\PerModuleInline.gen.cpp.obj"
-"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\Default.rc2.res"
+"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.obj"
+"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\PerModuleInline.gen.cpp.obj"
+"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -70,6 +70,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\GlobalGameJam01-26\GlobalGameJam0126\Binaries\Win64\UnrealEditor-GlobalGameJam0126.dll"
-/PDB:"D:\GlobalGameJam01-26\GlobalGameJam0126\Binaries\Win64\UnrealEditor-GlobalGameJam0126.pdb"
+/OUT:"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Binaries\Win64\UnrealEditor-GlobalGameJam0126.dll"
+/PDB:"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Binaries\Win64\UnrealEditor-GlobalGameJam0126.pdb"
 /ignore:4078
