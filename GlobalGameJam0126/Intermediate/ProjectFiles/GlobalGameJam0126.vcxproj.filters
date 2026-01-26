@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GlobalGameJam0126.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GlobalGameJam0126.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GlobalGameJam0126Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GlobalGameJam0126">
+      <UniqueIdentifier>{9E0CA2D9-4518-31D2-8E49-E279E354A734}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GlobalGameJam0126\GlobalGameJam0126.Build.cs">
+      <Filter>Source\GlobalGameJam0126</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GlobalGameJam0126\GlobalGameJam0126.cpp">
+      <Filter>Source\GlobalGameJam0126</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GlobalGameJam0126\GlobalGameJam0126.h">
+      <Filter>Source\GlobalGameJam0126</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

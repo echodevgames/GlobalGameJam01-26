@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GlobalGameJam0126",
+			"Path": "..\\Source\\GlobalGameJam0126.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GlobalGameJam0126Editor",
+			"Path": "..\\Source\\GlobalGameJam0126Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
