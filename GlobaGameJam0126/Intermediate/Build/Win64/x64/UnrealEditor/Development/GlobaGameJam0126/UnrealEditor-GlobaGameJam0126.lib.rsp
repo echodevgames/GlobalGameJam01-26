@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GlobaGameJam0126.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/GitRepos/GlobalGameJam01-25Repo/GlobaGameJam0126/Intermediate/Build/Win64/x64/GlobaGameJam0126Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/GitRepos/GlobalGameJam01-25Repo/GlobaGameJam0126/Intermediate/Build/Win64/x64/UnrealEditor/Development/GlobaGameJam0126/GlobaGameJam0126.cpp.obj"
+"C:/GitRepos/GlobalGameJam01-25Repo/GlobaGameJam0126/Intermediate/Build/Win64/x64/UnrealEditor/Development/GlobaGameJam0126/PerModuleInline.gen.cpp.obj"
+"C:/GitRepos/GlobalGameJam01-25Repo/GlobaGameJam0126/Intermediate/Build/Win64/x64/UnrealEditor/Development/GlobaGameJam0126/Default.rc2.res"
+/OUT:"C:/GitRepos/GlobalGameJam01-25Repo/GlobaGameJam0126/Intermediate/Build/Win64/x64/UnrealEditor/Development/GlobaGameJam0126/UnrealEditor-GlobaGameJam0126.lib"
