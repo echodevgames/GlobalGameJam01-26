@@ -6,8 +6,8 @@
 /NAME:"UnrealEditor-GlobalGameJam0126.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.obj"
-"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\PerModuleInline.gen.cpp.obj"
-"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\Default.rc2.res"
-/OUT:"C:\GitRepos\GlobalGameJam01-25Repo\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\UnrealEditor-GlobalGameJam0126.lib"
+"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\GlobalGameJam0126Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\GlobalGameJam0126.cpp.obj"
+"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\PerModuleInline.gen.cpp.obj"
+"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\Default.rc2.res"
+/OUT:"D:\GlobalGameJam01-26\GlobalGameJam0126\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam0126\UnrealEditor-GlobalGameJam0126.lib"
