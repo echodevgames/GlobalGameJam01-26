@@ -2,9 +2,21 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "47805100C68A931F88EE5D98BEE81D06AD8E1AFA",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "DAE70302EC4B7A60528398D33C5F2BBACF54ED26",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F4536905FEA184590E8DA6EAC9B3EA6EE1CA52AC",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Mask"
 			]
 		},
 		{
@@ -44,6 +56,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2B42F51390338F8B12E5429538107F42D4B41D5E",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_CubeMap_Root"
+			]
+		},
+		{
 			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
@@ -59,6 +77,18 @@
 			"ShaderMapHash": "9CDADF17E59F837132097FE43CFB96A5F3DA0355",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "CE78D3188EBC1F01CC10E8DB5B1CEA9A838838BB",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Mask/M_Masks_B"
+			]
+		},
+		{
+			"ShaderMapHash": "753F4C1B4F747F22DE48D3107705D41B518E29CD",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Mask/M_Masks_A"
 			]
 		},
 		{
@@ -95,6 +125,12 @@
 			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "73E4A82EFF16E00D1C41AC688606A054BFAA78ED",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
 			]
 		},
 		{
@@ -149,6 +185,12 @@
 			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "57D9704421914F01E7EC25E1FA8241A7E47B382A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -209,6 +251,12 @@
 			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "46CAD75F4A03ED8FA7138A1800645093AA23683C",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Placeholders/MI_Computer"
 			]
 		},
 		{
@@ -298,6 +346,7 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -362,9 +411,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5AF33BAF7A3A9190EBD6C42371A5720D04326DCA",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Mask/M_Masks_C"
+			]
+		},
+		{
 			"ShaderMapHash": "30F49BAF5733DB34FC3E029E2BBBB4E362A61346",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F67477B004DBF9F07B73F34FC267B4D3FBC729B8",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Basic_Root"
 			]
 		},
 		{
@@ -414,6 +475,12 @@
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8ECE44BDA28E295076199BAA6EBC825BB69AD8E5",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Overlay_Root"
 			]
 		},
 		{
@@ -471,6 +538,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "03FF0DD9FABE0F543FF93886926DCE74BBBF4651",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_LightShaft_Root"
+			]
+		},
+		{
 			"ShaderMapHash": "134443E99E4225FBDA3206C8AEA70CA4590B02BA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
@@ -486,6 +559,12 @@
 			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B0AE0EC644E2DF4F82B43E5740BA086967906F4",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Clouds"
 			]
 		},
 		{
@@ -510,6 +589,12 @@
 			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
+			]
+		},
+		{
+			"ShaderMapHash": "359EE2F8592640C9EBDF5174CAC132738DB003C9",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_HUD_Icon"
 			]
 		},
 		{

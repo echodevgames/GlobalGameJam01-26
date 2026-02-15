@@ -26,9 +26,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5C417106A00F57C3B57444A2B6A02CAFCCDDDD7F",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "CB1E3709D9823AA33688B6AE219BFEED23BDD188",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Mask/M_Masks_B"
+			]
+		},
+		{
 			"ShaderMapHash": "3543D20F571BEC552E0CA3CB37EBE366E7044478",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "214FE612234D620999CE3A8438D9E505502790F8",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Overlay_Root"
 			]
 		},
 		{
@@ -41,6 +59,12 @@
 			"ShaderMapHash": "B7AA5B1BBDF568D143E429424B6D6FD74C325F29",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A22DC01BEA5E9B84053BD44841ADF3AFB4C64CC4",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_HUD_Icon"
 			]
 		},
 		{
@@ -59,6 +83,12 @@
 			"ShaderMapHash": "E843512BDA75D4C8434FD43508D2136498DDB362",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "C7D2BF2B1C469081E777B063F5D1EB4A54666935",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -206,6 +236,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "276D826EB8A947B17AD4490BB0F6CD1F34FF460F",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Mask/M_Masks_A"
+			]
+		},
+		{
 			"ShaderMapHash": "438EC7702432B7C65389A674FAA4D54526331B3A",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -215,7 +251,8 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -300,6 +337,12 @@
 			"ShaderMapHash": "CAA3349CE3D3876343CD810079A84695FA793B5E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F36B629E7E94BC8661EAA376F69988D3E42AD370",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Mask"
 			]
 		},
 		{
@@ -399,6 +442,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8A3ECDC0079FEB7871408942DF88D482533896CE",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_CubeMap_Root"
+			]
+		},
+		{
 			"ShaderMapHash": "23DE3EC34369513CEC99DB6EFFB462B80C2E6B91",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
@@ -414,6 +463,12 @@
 			"ShaderMapHash": "D71594C921688AF8AB174E9EDAB0E72C911DEE7D",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "55E5B0CF8E9C91DEE2E7CDC03E3A7BD957AB3258",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_Basic_Root"
 			]
 		},
 		{
@@ -501,15 +556,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A58D8CE895B312EBC174E34B286687659E225D8F",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Mask/M_Masks_C"
+			]
+		},
+		{
 			"ShaderMapHash": "8A9043EBE2A8C89D45D25A84812226A5E7AE32A7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
 			]
 		},
 		{
+			"ShaderMapHash": "02A61BEDAB93AB9E2F5C3A787BDBF5ABBD28D7B9",
+			"Assets": [
+				"/Game/_Art/Material/Masters/M_LightShaft_Root"
+			]
+		},
+		{
 			"ShaderMapHash": "326AFFF1B14AF96A614C4C9FE33170408F7F2BD4",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "DE76DAF5A49F5007B82C864A648E93E8271F06AD",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
 			]
 		},
 		{
@@ -534,6 +607,18 @@
 			"ShaderMapHash": "2EDD26FBF47B3D2A840F3F774EBB87A78953A160",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "52BC4BFB4C722895518A1FCA05168DF4FEF7FA7C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "096C40FCA813DD891B324A6A0F71961106F0EF58",
+			"Assets": [
+				"/Game/_Art/Material/Instances/Placeholders/MI_Computer"
 			]
 		},
 		{
